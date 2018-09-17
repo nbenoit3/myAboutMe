@@ -1,2 +1,2 @@
 # myAboutMe
-About me page. 
+This is a page about me. 
